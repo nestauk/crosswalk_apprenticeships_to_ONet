@@ -1,0 +1,499 @@
+app_ref_no,app_title,onet_all_codes
+ST0001,Accountancy / taxation professional,"['13-2011.01', '13-2081.00']"
+ST0502,Actuary,['15-2011.00']
+ST0004,Actuarial technician,['15-2011.00']
+ST0170,Facilities management supervisor,"['11-3011.00', '43-1011.00']"
+ST0070,Business administrator,['11-3011.00']
+ST0484,Facilities manager,"['11-3011.00', '11-9141.00']"
+ST0410,Senior / head of facilities management (degree),"['11-3011.00', '11-9141.00']"
+ST0617,Facilities services operative,"['37-2011.00', '33-9032.00', '39-6011.00', '39-6012.00']"
+ST0644,Advertising and media executive,['41-3011.00']
+ST0457,Engineering technician,"['17-3021.00', '51-4041.00', '53-5031.00', '17-2199.05', '49-2091.00']"
+ST0010,Aerospace engineer (degree),['17-2011.00']
+ST0018,Crop technician,['19-4011.01']
+ST0282,Metrology technician,"['19-4011.01', '51-9061.00']"
+ST0283,Senior metrology technician,"['19-4011.01', '51-9061.00']"
+ST0595,Air traffic controller,['53-2021.00']
+ST0019,Aircraft maintenance certifying engineer,['49-3011.00']
+ST0038,Aviation ground specialist,"['53-2022.00', '53-6051.01']"
+ST0037,Aviation ground operative,"['53-2022.00', '53-6051.01']"
+ST0523,First officer pilot,"['53-2011.00', '53-2012.00']"
+ST0627,"Ambulance support worker (emergency, urgent and non-urgent)",['53-3011.00']
+ST0058,Animal technologist,['19-1011.00']
+ST0398,Animal trainer,['39-2011.00']
+ST0769,Archaeological specialist (degree),['19-3091.02']
+ST0221,Archaeological technician,['19-3091.02']
+ST0533,Architect (degree),"['17-1011.00', '17-1012.00']"
+ST0456,Post graduate engineer,"['17-2141.00', '17-2131.00', '17-2071.00']"
+ST0534,Architectural assistant (degree),['17-3011.01']
+ST0633,Arts therapist (degree),['29-1125.01']
+ST0524,Sporting excellence professional,['27-2021.00']
+ST0173,Fashion studio assistant,"['27-4011.00', '27-1022.00']"
+ST0610,Internal audit professional,['13-2011.01']
+ST0587,Internal audit practitioner,['13-2011.02']
+ST0405,"Vehicle damage mechanical, electrical and trim (MET) technician",['49-3021.00']
+ST0352,Accident repair technician,['49-3021.00']
+ST0403,Vehicle damage panel technician,['49-3021.00']
+ST0033,Motor vehicle service and maintenance technician (light vehicle),"['49-3023.01', '49-3052.00']"
+ST0499,Autocare technician,"['49-3023.01', '49-3023.02']"
+ST0191,Baker,['51-3011.00']
+ST0190,Advanced baker,['51-3011.00']
+ST0622,Bicycle mechanic,['49-3091.00']
+ST0175,Advanced credit controller / debt collection specialist,"['43-3011.00', '43-4041.02']"
+ST0649,Bioinformatics scientist (degree),['19-1029.01']
+ST0002,Assistant accountant,['43-3031.00']
+ST0179,Investment operations administrator,['43-6014.00']
+ST0003,Professional accounting / taxation technician,"['43-3031.00', '13-2081.00']"
+ST0608,Accounts / finance assistant,['43-3031.00']
+ST0095,Bricklayer,['47-2021.00']
+ST0106,Creative venue technician,['27-4012.00']
+ST0342,Outside broadcasting engineer (degree),"['27-4012.00', '27-4031.00']"
+ST0341,Broadcast production assistant,['27-4012.00']
+ST0696,Post production technical operator,"['27-4012.00', '27-2012.05']"
+ST0255,Live event technician,['27-4012.00']
+ST0426,Broadcast and media systems engineer (degree),"['27-4012.00', '27-4011.00']"
+ST0424,Broadcast and media systems technical operator,['27-4012.00']
+ST0067,Bus and coach engineering technician,['49-3031.00']
+ST0068,Heavy vehicle service and maintenance technician,['49-3031.00']
+ST0338,"Passenger transport driver - bus, coach and tram",['53-3021.00']
+ST0077,Advanced butcher,['51-3021.00']
+ST0078,Butcher,['51-3021.00']
+ST0203,Furniture manufacturer,['51-7011.00']
+ST0639,Bespoke furniture maker,['27-1012.00']
+ST0793,New furniture product developer,['27-1021.00']
+ST0394,Maritime operations officer,['33-9092.00']
+ST0307,Port operative,"['43-5011.00', '53-7062.00']"
+ST0461,Formworker,"['47-2051.00', '47-2071.00']"
+ST0232,Senior production chef,['35-1011.00']
+ST0227,Chef de partie,['35-1011.00']
+ST0228,Commis chef,['35-1011.00']
+ST0589,Production chef,['35-1011.00']
+ST0597,Technician Scientist,"['19-4031.00', '29-2012.00']"
+ST0248,Laboratory technician,"['19-4031.00', '29-2012.00', '19-4011.01', '19-4021.00', '51-9081.00', '51-9083.00', '19-4091.00']"
+ST0480,Senior leader (degree),['11-1011.00']
+ST0088,"Children, young people and families practitioner",['21-1021.00']
+ST0510,Social worker (degree),['21-1021.00']
+ST0087,"Children, young people and families manager",['21-1021.00']
+ST0135,Early years educator,['39-9011.00']
+ST0164,Engineering design and draughtsperson,"['17-3011.02', '17-3011.01']"
+ST0063,Building services design technician,['17-3022.00']
+ST0372,Building services design engineer (degree),"['17-3022.00', '11-9021.00']"
+ST0091,Civil engineering technician,['17-3022.00']
+ST0046,Construction site engineering technician,['17-3022.00']
+ST0041,Building services engineering technician,['17-3022.00']
+ST0417,Civil engineer (degree),['17-2051.00']
+ST0609,Clinical trials specialist (degree),['11-9121.01']
+ST0568,Psychological wellbeing practitioner ,['19-3031.03']
+ST0463,Industrial coatings applicator,['51-9121.00']
+ST0637,Packaging professional (degree),['27-1021.00']
+ST0027,Product design and development engineer (degree),['27-1021.00']
+ST0093,Community sport and health officer,['21-1094.00']
+ST0631,Public health practitioner (degree),"['21-1094.00', '29-9011.00']"
+ST0187,Workplace pensions (administrator or consultant),['13-1141.00']
+ST0363,Senior compliance / risk specialist,"['11-9199.02', '13-2099.02']"
+ST0708,Public sector compliance Investigator / officer,"['13-1041.01', '13-1041.02', '13-2081.00']"
+ST0362,Compliance / risk officer,['13-2061.00']
+ST0430,Regulatory compliance officer,"['13-1041.01', '13-1041.02', '13-2081.00']"
+ST0585,Data scientist (integrated degree),['15-1111.00']
+ST0127,Network engineer,['15-1152.00']
+ST0117,IS business analyst,['15-1121.00']
+ST0119,Digital and technology solutions professional (integrated degree),"['15-1199.02', '15-1133.00', '15-1132.00']"
+ST0107,Systems engineer,['15-1199.02']
+ST0482,Digital and technology solutions specialist (integrated degree),['15-1199.02']
+ST0505,IT solutions technician,"['15-1199.02', '11-3021.00', '15-1152.00', '15-1151.00', '15-1121.00']"
+ST0120,Digital support technician,['15-1151.00']
+ST0264,Carpentry and joinery,['47-2031.01']
+ST0043,Construction design and build technician,"['11-9021.00', '27-1025.00']"
+ST0266,Digital engineering technician,"['11-9021.00', '17-2051.00', '17-3022.00']"
+ST0044,Design and construction management (degree),['11-9021.00']
+ST0040,Building services engineering site management (degree),['11-9021.00']
+ST0042,Civil engineering site management (degree),"['11-9021.00', '17-3022.00']"
+ST0047,Construction site management (degree),['11-9021.00']
+ST0048,Construction site supervisor,['47-1011.00']
+ST0158,Dual fuel smart meter installer,['49-2097.00']
+ST0386,Custody and detention officer,['33-3012.00']
+ST0049,Construction quantity surveying technician,['13-1051.00']
+ST0045,Construction quantity surveyor (degree),"['13-1051.00', '11-9021.00']"
+ST0267,Lifting technician,['53-7021.00']
+ST0176,Credit controller / collector,"['43-4041.01', '43-4041.02', '43-3011.00']"
+ST0559,Museums and galleries technician,['25-4013.00']
+ST0178,Financial services customer adviser,['43-4051.00']
+ST0072,Customer service practitioner,['43-4051.00']
+ST0071,Customer service specialist,['43-4051.00']
+ST0113,Dental nurse,"['31-9091.00', '29-2061.00']"
+ST0542,Oral health practitioner,['29-2021.00']
+ST0110,Dental laboratory assistant,['51-9081.00']
+ST0108,Dental technician (integrated),['51-9081.00']
+ST0554,Sonographer (degree),['29-2032.00']
+ST0599 ,Dietitian (degree),['29-1031.00']
+ST0527,Church minister (degree),['21-2011.00']
+ST0388,Interior systems installer,['47-2081.00']
+ST0375,Tunnelling operative,['47-5021.00']
+ST0796,Senior professional economist,['19-3011.00']
+ST0603,Professional economist (degree),['19-3011.00']
+ST0532,Publishing assistant,['27-3043.04']
+ST0575,School business professional,['11-9032.00']
+ST0694,Career development professional,"['21-1012.00', '25-2023.00', '25-2032.00', '21-1015.00']"
+ST0024,Electrical / electronic technical support engineer (degree),"['17-3023.01', '17-3023.03']"
+ST0052,Highways electrician / service operative,"['49-2094.00', '53-6041.00', '47-4051.00']"
+ST0159,Utilities engineering technician,"['49-2094.00', '49-9071.00']"
+ST0791 ,Commercial catering equipment technician,['49-2094.00']
+ST0150,"Electrical, electronic product service and installation engineer",['49-2094.00']
+ST0588,Propulsion technician,"['17-3023.03', '51-2031.00', '17-2121.01']"
+ST0316,Rail engineering advanced technician,"['53-4013.00', '49-3043.00', '47-4061.00', '17-3023.03']"
+ST0023,Control / technical support engineer (degree),['17-2199.04']
+ST0249,Science industry maintenance technician,"['17-3023.03', '17-3027.00', '49-9041.00', '51-8099.04', '51-8099.03', '49-9071.00']"
+ST0154,Maintenance and operations engineering technician,"['17-3023.03', '49-9071.00', '17-3027.00', '49-9081.00']"
+ST0157,Electrical power protection and plant commissioning engineer,['17-2071.00']
+ST0153,Power engineer (degree),['17-2071.00']
+ST0475,Electrical power networks engineer,"['17-2071.00', '17-3029.02']"
+ST0497,Rail and rail systems principal engineer (degree),"['17-2071.00', '47-4061.00', '53-4021.00', '49-9097.00', '53-4013.00']"
+ST0156,Power network craftsperson,['49-9051.00']
+ST0152,Installation electrician / maintenance electrician,"['47-2111.00', '49-9098.00']"
+ST0681,Electronic systems principal engineer,"['17-2072.00', '17-3023.01', '17-3029.04']"
+ST0151,Embedded electronic systems design and development engineer (degree),['17-2072.00']
+ST0252,Lift and escalator electromechanic,['47-4021.00']
+ST0287,Associate ambulance practitioner,['29-2041.00']
+ST0567,Paramedic (degree),['29-2041.00']
+ST0161,Junior energy manager,['17-2199.03']
+ST0092,Community energy specialist,['13-1199.05']
+ST0432,Engineering fitter,"['51-2031.00', '47-2152.01', '51-2041.00', '51-2023.00', '51-2022.00']"
+ST0767,Water environment worker,"['17-3025.00', '19-1031.01']"
+ST0778,Environmental practitioner (degree),"['17-2081.00', '17-3025.00']"
+ST0714,Environmental health practitioner (degree),"['19-4091.00', '19-2041.00']"
+ST0663,Employability practitioner,"['21-1015.00', '21-1012.00']"
+ST0574,Ordnance munitions and explosives (OME) professional (degree),['47-5031.00']
+ST0615,Demolition operative,['47-5031.00']
+ST0541,Fashion and textiles pattern cutter,"['51-9031.00', '51-6092.00']"
+ST0017,"Stockperson (beef, pigs, sheep, dairy)",['45-2093.00']
+ST0467,Poultry technician,['45-2093.00']
+ST0366,Fencing installer,['47-4031.00']
+ST0561,Senior investment / commercial banking professional,"['11-3031.02', '13-2051.00', '41-3031.03', '11-9199.03']"
+ST0177,Financial services administrator,['43-6014.00']
+ST0183,Paraplanner,"['11-3031.02', '13-2052.00']"
+ST0520,Senior insurance professional,"['11-3031.02', '13-2099.02', '13-2071.00', '13-2053.00']"
+ST0746,Fire safety inspector,['33-2021.01']
+ST0188,Business fire safety advisor,"['33-2021.01', '33-1021.01', '17-2111.02']"
+ST0225,Horticulture and landscape operative,['37-3011.00']
+ST0226,Landscape / horticulture supervisor,['37-1012.00']
+ST0230,Hospitality supervisor,['39-1021.00']
+ST0325,Retail manager,['41-1011.00']
+ST0326,Retail team leader,['41-1011.00']
+ST0547,Retail leadership degree apprenticeship,['41-1011.00']
+ST0145,Mineral processing weighbridge operator,['53-1031.00']
+ST0428,Port marine operations officer,['53-1031.00']
+ST0302,Personal trainer,['39-9031.00']
+ST0558,Cabin crew,['53-2031.00']
+ST0504,Floorlayer,['47-2042.00']
+ST0580,Brewer,['51-3092.00']
+ST0199,Food and drink process operator,"['51-3092.00', '51-3093.00']"
+ST0196,Food and drink advanced process operator,['51-1011.00']
+ST0393,Advanced dairy technologist,"['51-3092.00', '19-1012.00', '51-9012.00']"
+ST0529,Food and drink advanced engineer (degree),['19-1012.00']
+ST0624,Food and drink engineer,['19-1012.00']
+ST0198,Food technologist,['19-1012.00']
+ST0197,Food industry technical professional (degree),['19-1012.00']
+ST0788,Advanced forensic practitioner (custody or sexual offence),['19-4092.00']
+ST0224,Forest operative,"['19-1032.00', '19-4093.00']"
+ST0747,Counter fraud investigator,['13-2099.04']
+ST0539,International freight forwarding specialist,"['43-5011.01', '43-5011.00', '43-5071.00']"
+ST0594,Funeral team member,['39-4021.00']
+ST0205,Gas network craftsperson,"['51-8092.00', '47-2152.01']"
+ST0204,Gas network team leader,"['51-8092.00', '47-2152.01']"
+ST0515,Manufacturing manager (degree),['11-3051.00']
+ST0385,Operations / departmental manager,"['11-1021.00', '11-3031.02']"
+ST0384,Team leader / supervisor,['11-1021.00']
+ST0511,Mineral and construction product sampling and testing operations,['19-4041.02']
+ST0492,Geospatial mapping and science specialist (degree),['15-1199.04']
+ST0744,Fenestration fabricator,['47-2121.00']
+ST0031,Automotive glazing technician,['49-3022.00']
+ST0743,Fenestration installer,['47-2121.00']
+ST0213,Hair professional,['39-5012.00']
+ST0630,Beauty therapist,"['39-5012.00', '39-5094.00']"
+ST0022,Asbestos analyst / surveyor,['29-9011.00']
+ST0564,Advanced clinical practitioner (degree),['29-1171.00']
+ST0786,Associate continuing healthcare practitioner,['21-1022.00']
+ST0216,Healthcare support worker,['21-1022.00']
+ST0220,Healthcare science associate,"['31-9092.00', '29-2099.05', '29-2099.06']"
+ST0217,Senior healthcare support worker,"['31-9092.00', '29-2099.05', '29-2099.06']"
+ST0600,Hearing aid dispenser,['29-2092.00']
+ST0064,Building services engineering ductwork craftsperson,['49-9021.01']
+ST0062,Building services engineering craftsperson,['49-9021.01']
+ST0391,Building services engineering ventilation hygiene technician,['49-9021.01']
+ST0322,Refrigeration air conditioning and heat pump engineering technician,"['49-9021.01', '49-9021.02']"
+ST0257,Large goods vehicle (LGV) driver,['53-3032.00']
+ST0051,Highway electrical maintenance and installation operative,"['47-4051.00', '49-2094.00']"
+ST0053,Highways maintenance skilled operative,['47-4051.00']
+ST0155,Gas engineering operative,['49-9031.00']
+ST0464,Smart home technician,"['49-9031.00', '49-2097.00']"
+ST0005,Adult care worker,"['31-1011.00', '39-9021.00']"
+ST0233,Hospitality team member,['35-9031.00']
+ST0229,Hospitality manager,"['13-1121.00', '39-1021.00', '11-9081.00', '11-9051.00']"
+ST0239,HR support,['43-4161.00']
+ST0238,HR consultant / partner,['13-1071.00']
+ST0321,Recruitment resourcer,['13-1071.00']
+ST0320,Recruitment consultant,['13-1071.00']
+ST0577,Ecologist (degree),"['19-2041.03', '19-2041.00']"
+ST0695,Process leader,"['17-2112.00', '51-1011.00']"
+ST0473,Science industry process / plant engineer (degree),"['17-2112.00', '17-3029.02', '11-3051.04', '51-8091.00']"
+ST0465,Risk and safety management professional (degree),['17-2111.01']
+ST0409,Cyber security technical professional (integrated degree),"['15-1122.00', '13-1199.02']"
+ST0114,Cyber intrusion analyst,"['15-1122.00', '13-1199.02']"
+ST0124,Cyber security technologist,"['15-1122.00', '13-1199.02']"
+ST0149,Learning and skills teacher,"['25-2032.00', '25-1194.00']"
+ST0562,Learning and development practitioner,"['25-9031.00', '13-1151.00', '11-3131.00']"
+ST0333,Commercial thermal insulation operative,['47-2131.00']
+ST0521,Industrial thermal insulation technician,"['47-2131.00', '47-2132.00']"
+ST0406,Vehicle damage assessor,['13-1032.00']
+ST0240,Insurance practitioner,"['43-9041.02', '41-3021.00']"
+ST0241,Insurance professional,"['13-2053.00', '43-9041.01', '41-3021.00', '13-1031.02']"
+ST0516,Intelligence analyst,['33-3021.06']
+ST0654,Fitted furniture design technician,['27-1025.00']
+ST0180,Investment operations specialist,['41-3031.01']
+ST0171,Property maintenance operative,"['49-9071.00', '37-2011.00']"
+ST0210,Sports turf operative,['37-3011.00']
+ST0209,Golf greenkeeper,['37-3011.00']
+ST0513,Groundworker,['37-3011.00']
+ST0604,Textile care operative,['51-6011.00']
+ST0244,Chartered legal executive,['23-1011.00']
+ST0101,Licensed conveyancer,['23-1011.00']
+ST0246,Solicitor,['23-1011.00']
+ST0102,Probate technician,['23-2011.00']
+ST0664,"Library, information and archive services assistant","['25-4031.00', '25-4011.00', '43-4121.00']"
+ST0697,Specialist community and public health nurse,"['29-2061.00', '21-1094.00']"
+ST0293,Registered nurse - degree (NMC 2010),['29-2061.00']
+ST0781,Registered nurse degree (NMC 2018),['29-2061.00']
+ST0709,District nurse,['29-2061.00']
+ST0103,Express delivery operative,"['53-3033.00', '43-5021.00', '53-3031.00']"
+ST0182,Mortgage adviser,"['13-2071.01', '13-2071.00']"
+ST0495,Rail and rail systems engineer,"['17-2071.00', '17-2141.00']"
+ST0496,Rail and rail systems senior engineer (degree),"['17-2071.00', '17-2141.00']"
+ST0431,Rehabilitation worker (visual impairment),['29-1122.01']
+ST0061,Building services engineering service and maintenance engineer,['49-9071.00']
+ST0065,Building services engineering installer,['49-9071.00']
+ST0740,Through life engineering services specialist (degree),['49-9071.00']
+ST0571,Heritage engineering technician,"['49-9071.00', '25-4013.00']"
+ST0569,Leisure and entertainment engineering technician,"['49-9043.00', '49-9071.00', '17-3023.03', '17-3027.00']"
+ST0195,Food and drink maintenance engineer,['49-9043.00']
+ST0243,Land-based service engineering technician,"['49-9043.00', '49-3053.00']"
+ST0273,Junior management consultant,['13-1111.00']
+ST0272,Chartered manager (degree),['11-1021.00']
+ST0635,Nail services technician,['39-5092.00']
+ST0265,Construction assembly and installation operative,['49-9095.00']
+ST0025,Manufacturing engineer (degree),['17-2199.04']
+ST0250,Science manufacturing technician,['17-3029.09']
+ST0163,Project controls technician,"['15-2031.00', '17-3029.09']"
+ST0841,Engineering manufacturing technician,['17-3029.09']
+ST0491,Geospatial survey technician,"['17-3031.02', '17-1022.01', '15-1199.04']"
+ST0059,Boatbuilder,['17-2121.02']
+ST0364,Marine engineer,['17-2121.01']
+ST0623,Marine technical superintendent (degree),['17-2121.01']
+ST0772,Marine surveyor (degree),['17-2121.01']
+ST0807,Marketing assistant,['13-1161.00']
+ST0612,Marketing manager,['11-2021.00']
+ST0596,Marketing executive,['11-2021.00']
+ST0659,Materials process engineer (degree),['17-2131.00']
+ST0094,Composites Technician,"['17-2131.00', '51-4072.00']"
+ST0675,Materials science technologist (degree),"['17-2131.00', '19-2032.00']"
+ST0592,Marina and boatyard operative,"['53-6011.00', '53-6031.00']"
+ST0274,Able seafarer (deck),['53-5021.02']
+ST0400,Workboat crewmember,['53-5021.02']
+ST0194,Fishmonger,"['35-3021.00', '51-3022.00']"
+ST0373,Powered pedestrian door installer and service engineer,['49-9011.00']
+ST0662,Automation and controls engineering technician,['17-2199.05']
+ST0407,Process automation engineer (degree),"['17-2199.05', '17-2112.00 ']"
+ST0413,Healthcare science practitioner (degree),"['29-2011.00', '29-2012.00']"
+ST0626,Laboratory scientist (degree),"['29-2012.00', '19-4011.01', '19-4021.00', '19-4031.00', '51-9081.00', '19-4091.00', '29-2056.00,51-9083.00', '51-9083.00']"
+ST0109,Dental practice manager,['11-9111.00']
+ST0632,Prosthetic and orthotic technician,"['51-9082.00', '29-2091.00']"
+ST0218,Healthcare science assistant,['31-9092.00']
+ST0535,Clinical coder,['29-2071.00']
+ST0168,Event assistant,['13-1121.00']
+ST0794,Midwife (degree),['29-9099.01']
+ST0605,Mineral products technician,"['47-1011.00', '29-9012.00']"
+ST0144,Mineral processing mobile and static plant operator,"['47-2073.00', '49-3042.00']"
+ST0263,Advanced carpentry and joinery,['47-2031.01']
+ST0584,Funeral director,"['39-4031.00', '11-9061.00']"
+ST0276,Maritime electrical / mechanical mechanic,"['49-3051.00', '53-5031.00']"
+ST0376,Motorcycle technician (repair and maintenance),['49-3052.00']
+ST0346,Assistant technical director (visual effects),['27-1014.00']
+ST0105,Junior content producer,['27-1014.00']
+ST0347,Junior 2D artist (visual effects),"['27-1014.00', '27-4032.00']"
+ST0628,Cultural heritage conservator (degree),['25-4013.00']
+ST0611,Cultural heritage conservation technician,['25-4013.00']
+ST0759,Research scientist,"['11-9121.00', '19-1021.00', '19-2041.00', '11-9121.01', '19-1020.01', '19-1013.00', '19-1011.00', '19-2032.00', '15-1111.00', '19-1012.00']"
+ST0125,Infrastructure technician,"['15-1142.00', '11-3021.00', '15-1152.00']"
+ST0369,Non-destructive testing engineer (degree),['17-3029.01']
+ST0288,Non-destructive testing engineering technician,['17-3029.01']
+ST0358,Non-destructive testing (NDT) operator,['17-3029.01']
+ST0389,Poultry worker,['45-2093.00']
+ST0789,Keeper and aquarist,['11-9013.03']
+ST0167,Senior equine groom,['45-2093.00']
+ST0397,Animal care and welfare assistant,"['39-2021.00', '31-9096.00']"
+ST0166,Equine groom,['45-2093.00']
+ST0289,Nuclear scientist and nuclear engineer (degree),['17-2161.00']
+ST0380,Nuclear technician,['19-4051.01']
+ST0292,Nuclear welding inspection technician,"['19-4051.01', '51-9061.00']"
+ST0291,Nuclear operative,"['19-4051.01', '51-8011.00']"
+ST0290,Nuclear health physics monitor,['19-4051.02']
+ST0215,Healthcare assistant practitioner,['29-1171.00']
+ST0827,Nursing associate (NMC 2018),['31-1014.00']
+ST0550,"Safety, health and environment technician","['29-9012.00', '17-2111.01', '19-4091.00']"
+ST0517,Occupational therapist (integrated degree),['29-1122.00']
+ST0122,Digital marketer,['13-1161.00']
+ST0481,Digital marketer integrated degree,"['13-1161.00', '11-2021.00']"
+ST0537,Engineering operative,['47-2073.00']
+ST0383,Spectacle maker,['51-9083.00']
+ST0530,Optical assistant,['29-2081.00']
+ST0259,Supply chain warehouse operative,"['43-5081.04', '43-5081.03']"
+ST0601,Prosthetist / orthotist (degree),['29-2091.00']
+ST0242,Land-based service engineer,"['49-3053.00', '49-9043.00', '17-2021.00']"
+ST0016,Packhouse line leader,['51-1011.00']
+ST0295,Painter and decorator,['47-2141.00']
+ST0448,Vehicle damage paint technician,['51-9122.00']
+ST0296,Papermaker,['51-9196.00']
+ST0100,Conveyancing technician,['23-2011.00']
+ST0245,Paralegal,['23-2011.00']
+ST0693,Road surfacing operative,['47-2071.00']
+ST0073,Payroll administrator,['43-3051.00']
+ST0006,Lead adult care worker,"['31-1011.00', '39-9021.00']"
+ST0374,Financial adviser,['13-2052.00']
+ST0429,Pest control technician,['37-2021.00']
+ST0299,Pharmacy services assistant,['31-9095.00']
+ST0300,Pharmacy technician (Integrated),['29-2052.00']
+ST0506,Photographic assistant,['27-4021.00']
+ST0519,Physiotherapist (integrated degree),['29-1123.00']
+ST0518,Physician associate (degree),['29-1071.00']
+ST0268,Piling attendant,['47-2072.00']
+ST0427,Marine Pilot,['53-5021.03']
+ST0060,Building services engineering ductwork installer,['49-9021.01']
+ST0162,Engineering construction pipefitter,['47-2152.01']
+ST0422,Science manufacturing process operative,"['51-8091.00', '51-8013.00', '51-8092.00', '51-8031.00']"
+ST0096,Plasterer,['47-2161.00']
+ST0303,Plumbing and domestic heating technician,"['47-2152.02', '49-9021.01']"
+ST0493,Podiatrist (degree),['29-1081.00']
+ST0509,Police community support officer,['33-3051.01']
+ST0483,Emergency service contact handling,['43-5031.00']
+ST0477,Academic professional,"['25-1032.00', '25-1052.00', '25-1061.00', '25-1123.00', '25-1011.00', '25-1067.00', '25-1021.00', '25-1022.00', '25-1031.00', '25-1041.00', '25-1042.00', '25-1043.00', '25-1051.00,25-1053.00,25-1054.00,25-1062.00', '25-1053.00', '25-1054.00', '25-1062.00']"
+ST0566,"Metal casting, foundry and patternmaking technician","['51-4052.00', '51-4062.00']"
+ST0309,Print technician,['51-5112.00']
+ST0494,Probation services practitioner,['21-1092.00']
+ST0648,Probation officer,['21-1092.00']
+ST0525,Creative industries production manager (degree),"['27-2012.01', '27-2012.02']"
+ST0236,Senior housing / property management,['11-9141.00']
+ST0234,Housing / property management,['11-9141.00']
+ST0487,Specialist rescue operative,['33-9092.00']
+ST0311,Public relations and communications assistant,['27-3031.00']
+ST0345,Digital community manager,['27-3031.00']
+ST0583,Mammography associate,['29-2034.00']
+ST0619 ,Diagnostic radiographer (Integrated Degree),['29-2034.00']
+ST0620,Therapeutic radiographer (integrated degree),['29-1069.10']
+ST0528,High speed rail and infrastructure technician,['47-4061.00']
+ST0669,Tramway construction operative,['47-4061.00']
+ST0318,Rail engineering technician,['47-4061.00']
+ST0317,Rail engineering operative,['47-4061.00']
+ST0419,Rail infrastructure operator,['53-4021.00']
+ST0235,Housing / property management assistant,['11-9141.00']
+ST0329,Junior estate agent,['41-9022.00']
+ST0479,Outdoor activity instructor,['39-9032.00']
+ST0390,Leisure team member,['39-9032.00']
+ST0301,Leisure duty manager,['39-9032.00']
+ST0829,Health play specialist,['29-1125.00']
+ST0507,Metal recycling general operative,"['51-9199.01', '51-9061.00']"
+ST0752,Drinks dispense technician,"['49-9091.00', '49-9021.02']"
+ST0545,Waste resource operative,['53-7081.00']
+ST0586,Regulatory affairs specialist (degree),['13-1041.07']
+ST0285,Junior journalist,['27-3022.00']
+ST0474,Motor finance specialist,"['43-4131.00', '41-2031.00']"
+ST0327,Retailer,['41-2031.00']
+ST0359,Scaffolder,['49-9096.00']
+ST0256,Live event rigger,['49-9096.00']
+ST0433,Engineering construction erector / rigger,['49-9096.00']
+ST0270,Roofer,['47-2181.00']
+ST0472,Financial services professional,['13-2051.00']
+ST0185,Senior financial services customer adviser,['43-3071.00']
+ST0181,Investment operations technician,['43-3031.00']
+ST0115,IT technical salesperson,['41-9031.00']
+ST0572,Sales executive,"['41-4012.00', '41-4011.00', '41-2031.00']"
+ST0423,Business to business sales professional (degree),"['41-4012.00', '41-4011.00']"
+ST0490,Teacher,"['25-2031.00', '25-2021.00', '25-2022.00', '25-2023.00', '25-2032.00', '25-2012.00']"
+ST0189,Fire emergency and security systems technician,['49-2098.00']
+ST0330,Security first line manager,['11-9199.07']
+ST0174,Props technician,['27-1027.00']
+ST0476,Assistant puppet maker,['27-1013.00']
+ST0549,Sewing machinist,"['51-6031.00', '51-6063.00']"
+ST0621,Boatmaster,['53-5021.01']
+ST0328,Bespoke Saddler,['51-6041.00']
+ST0460 ,Leather craftsperson,['51-6041.00']
+ST0202,Footwear manufacturer,['51-6042.00']
+ST0636,Beauty and make up consultant,['41-2031.00']
+ST0418,Abattoir worker,['51-3023.00']
+ST0396,Cultural learning and participation officer,['11-9151.00']
+ST0593,Community safety advisor,"['11-9151.00', '21-1094.00']"
+ST0478,Community activator coach,"['21-1091.00', '21-1094.00', '11-9151.00']"
+ST0128,Software development technician,['15-1132.00']
+ST0013,Aerospace software development engineer (degree),['15-1133.00']
+ST0116,Software developer,['15-1133.00']
+ST0129,Software tester,['15-1199.01']
+ST0613,Acoustics technician,['27-4014.00']
+ST0618 ,Speech and language therapist (integrated degree),['29-1127.00']
+ST0118,Data analyst,"['43-9111.00', '15-1199.08']"
+ST0471,Express delivery manager (degree),['11-3071.02']
+ST0334,Trade supplier,"['11-3071.02', '11-3071.03']"
+ST0099,Structural steelwork fabricator,['51-2041.00']
+ST0271,Steel fixer,['47-2221.00']
+ST0169,Structural steelwork erector,['47-2221.00']
+ST0607 ,Metal fabricator,['51-2041.00']
+ST0645,Train driver,['53-4011.00']
+ST0201,Supply chain practitioner (fast moving consumer good) [previously Operator/Manager],['13-1081.00']
+ST0548,Supply chain leadership professional (degree),['11-9199.04']
+ST0258,Supply chain operator,['13-1081.00']
+ST0582,Operating department practitioner (integrated degree),['29-2055.00']
+ST0332,Surveying technician,['17-3031.01']
+ST0652,Building control surveyor (degree),['17-1022.00']
+ST0331,Chartered surveyor (degree),['17-1022.00']
+ST0846,Garment maker,['51-6052.00']
+ST0055,Bespoke tailor and cutter,['51-6052.00']
+ST0602,Revenues and welfare benefits practitioner,"['13-2081.00', '43-4061.00']"
+ST0454,Teaching assistant,['25-9041.00']
+ST0420,Lean manufacturing operative,"['51-2092.00', '19-4099.01', '51-2031.00']"
+ST0130,Unified communications technician,['49-2022.00']
+ST0131,Unified communications trouble shooter,['49-2022.00']
+ST0616,Wireless communications rigger,"['49-2021.00', '49-9052.00']"
+ST0485,Network cable installer,['49-9052.00']
+ST0678,Technical dyer and colourist,['51-6061.00']
+ST0581,Textile technical specialist,"['51-6063.00', '51-6061.00', '51-6064.00']"
+ST0458,Textile manufacturing operative,"['51-6063.00', '51-6061.00', '51-6064.00']"
+ST0540,Fashion and textiles product technologist,"['51-1011.00', '19-4099.01']"
+ST0368,Wall and floor tiler,"['47-2044.00', '47-2042.00']"
+ST0395,Watchmaker,"['51-2093.00', '49-9064.00']"
+ST0498,Specialist tyre operative,['49-3093.00']
+ST0556,Improvement leader,['11-3131.00']
+ST0563,Learning and development consultant / business partner,['11-3131.00']
+ST0148,Learning mentor,"['13-1151.00', '25-2032.00']"
+ST0555,Improvement specialist,['13-1111.00']
+ST0193,Improvement technician,['13-1111.00']
+ST0192,Improvement practitioner,['13-1111.00']
+ST0339,Passenger transport onboard and station team member,['53-6061.00']
+ST0315,Railway engineering design technician,['17-2051.01']
+ST0066,Road transport engineering manager,"['17-2051.01', '11-3071.01']"
+ST0039,Aviation operations manager,['53-2022.00']
+ST0337,Passenger transport operations manager,['11-3071.01']
+ST0503,Network operations,"['15-2031.00', '11-3071.01']"
+ST0698,Transport planner (degree),['19-3099.01']
+ST0336,Transport planning technician,['19-3099.01']
+ST0340,Travel consultant,['41-3041.00']
+ST0223,Arborist,['37-3013.00']
+ST0656,Advanced upholsterer,['51-6093.00']
+ST0536,Chartered town planner (degree),"['19-3051.00', '19-4061.01']"
+ST0343,Veterinary nurse,['31-9096.00']
+ST0453,Water treatment technician,['51-8031.00']
+ST0160,Water process technician,['51-8031.00']
+ST0349,General welder (arc processes),['51-4121.06']
+ST0852,Plate welder,['51-4121.06']
+ST0851,Pipe welder,"['51-4121.06', '47-2152.01']"
+ST0313,Commercial procurement and supply (formerly Public sector commercial professional),"['13-1023.00', '43-3061.00']"
+ST0668,Assistant buyer / Assistant merchandiser (degree),['13-1022.00']
+ST0683,Buying and merchandising assistant,['13-1022.00']
+ST0655,Advanced furniture CNC technician,"['51-7042.00', '51-7011.00', '51-7041.00']"
+ST0531,Wood product manufacturing operative,"['51-7042.00', '51-7041.00']"
